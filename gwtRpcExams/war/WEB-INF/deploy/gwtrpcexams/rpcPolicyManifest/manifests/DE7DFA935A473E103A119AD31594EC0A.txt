@@ -1,0 +1,2 @@
+serviceClass: com.dzhao.exams.gwt.client.rpc.FirstService
+path: B6493CC8A2C1450D572FF0046301801F.gwt.rpc

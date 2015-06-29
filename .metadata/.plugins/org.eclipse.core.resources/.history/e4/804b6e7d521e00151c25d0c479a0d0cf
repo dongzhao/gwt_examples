@@ -1,0 +1,10 @@
+package com.dzhao.exams.gwt.client;
+
+
+import com.google.gwt.core.client.EntryPoint;
+
+public class GwtRpcExams implements EntryPoint {
+
+	public void onModuleLoad() {
+	}
+}

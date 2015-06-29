@@ -1,0 +1,12 @@
+
+gwtRpcExams/gwt-unitCache
+gwtRpcExams/test-classes
+
+/build
+/classes
+*.jar
+*.class
+*~
+*/gwtrpcexams/gwt
+*/gwtrpcexams/WEB-INF/classes
+target

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;gwt-rpc-exams&apos;" deleteContents="true" description="Delete resource &apos;gwt-rpc-exams&apos;" element1="/gwt-rpc-exams" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1435559795763"/>
+</session>
